@@ -1,0 +1,15 @@
+[class*="big"] {
+  color: blue;
+}
+
+.container div {
+  border: thin solid green;
+}
+
+div {
+  font-weight: bold;
+}
+
+p.asteroid {
+  background: yellow;
+}
